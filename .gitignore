@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data and Output (IMPORTANT - NO SUBIR LOGS REALES)
+data/*.log
+data/enterprise_auth_complete.log
+data/enterprise_auth_*.log
+output/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs del sistema
+logs/
+*.log
+
+# OS específicos
+.DS_Store
+Thumbs.db
+
+# Config con secretos
+config/settings.py
+.env
+*.env
+
+# Reportes generados
+*_report_*.json
+
+# Archivos temporales
+*.tmp
+*.temp
+diagnostic_test.py
+test_*.py
