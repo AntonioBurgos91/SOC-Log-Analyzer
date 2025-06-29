@@ -26,7 +26,7 @@ SOC-Log-Analyzer is an enterprise-grade security analysis system designed for Se
 
 ```bash
 # Clone repository
-git clone https://github.com/[your-username]/SOC-Log-Analyzer.git
+git clone https://github.com/AntonioBurgos91/SOC-Log-Analyzer.git
 cd SOC-Log-Analyzer
 
 # Create virtual environment
